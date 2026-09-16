@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Development](#development)
@@ -33,12 +32,6 @@ WEBOIN is a **premium, production‑quality** website for a digital design agenc
 - **Tailwind CSS** – utility‑first styling for rapid UI development.
 - **Next.js App Router** – file‑system based routing, server‑side rendering, and static optimization.
 
-## Screenshots
-> Replace the placeholders with actual screenshots (store them in the `docs/` folder or link to a public URL).
-
-![Home Page](docs/home.png)
-![Services Section](docs/services.png)
-![Project Modal](docs/project-modal.png)
 
 ## Tech Stack
 - **Framework**: Next.js 14 (App Router)
